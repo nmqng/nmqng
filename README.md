@@ -1,6 +1,6 @@
 - 👋 Hi, I’m James Nguyen
 - 👀 I’m a junior at Dickinson College, majoring in Computer Science with Math minor
-- 🌱 I’m currently on the learning path to becoming Full Stack Web Dev; however, I want to focus on as a Back-end Dev
+- 🌱
 - 📫 You can email me via ngmqng@gmail.com
 
 <!---
