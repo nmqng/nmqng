@@ -1,5 +1,5 @@
 - 👋 Hi, I’m James Nguyen
-- 👀 I’m a junior at Dickinson College, majoring in Computer Science with Math minor
+- 👀 I’m a senior at Dickinson College, majoring in Computer Science with Math minor
 - 🌱
 - 📫 You can email me via ngmqng@gmail.com
 
